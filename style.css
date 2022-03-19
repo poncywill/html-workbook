@@ -1,0 +1,51 @@
+h1{
+    color: rgb(110, 58, 16);
+    font-style:bold;
+    
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    background-color: burlywood;
+}
+/* ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: block;
+    width: 60px;
+    background-color: burlywood;
+} */
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(110, 58, 16);
+}
+li{
+    float: left;
+}
+li a{
+    display:ruby-base-container;
+    font-size: 15px;
+    color: rgb(224, 230, 235);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+li a:hover{ 
+    background-color: rgb(230, 110, 30);
+
+}
+img{
+    z-index: 1;
+    left: 0;
+    left: 0px;
+
+}

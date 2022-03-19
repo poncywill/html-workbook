@@ -1,0 +1,23 @@
+div.static{
+    position: static;
+    border: 3px solid green;
+    left: 30px;
+}
+div.relative{
+    position: relative;
+    left: 30px;
+    border: 3px solid gray;
+}
+div.fixedd{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid red;
+}
+div.relative{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid black;
+}
